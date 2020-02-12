@@ -12,9 +12,9 @@ In brute force attack method,tool try all combination of password to provide acc
 # Install
 
 <code> git clone https://github.com/AL-AlamySploit/facebook-cracker <code>
-  
+
 <code>cd facebook-cracker</code>
-  
+
 <code>chmod +x facebook.py</code>
-  
+
 <code>python facebook.py</code>
