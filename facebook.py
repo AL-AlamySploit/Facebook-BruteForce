@@ -68,7 +68,7 @@ def welcome():
         +-----------------------------------------+
         |            #Author: Ha3MrX              | 
         |	       Version 1.0                |
- 	|   https://www.youtube.com/c/ALAlamyTube      |
+ 	|   https://www.youtube.com/c/ALAlamyTube |
         +=========================================+
         |..........  Facebook Cracker  ...........|
         +-----------------------------------------+\n\n
