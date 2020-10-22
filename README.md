@@ -11,10 +11,16 @@ In brute force attack method,tool try all combination of password to provide acc
 
 # Install
 
-<code> git clone https://github.com/AL-AlamySploit/facebook-cracker <code>
+<pre><span class="pl-c"></span> #command </span>
 
-<code>cd facebook-cracker</code>
+$ apt update && apt upgrade 
 
-<code>chmod +x facebook.py</code>
+$ apt install git 
 
-<code>python facebook.py</code>
+$ git clone https://github.com/AL-AlamySploit/facebook-cracker
+
+$ cd facebook-cracker 
+
+$ chmod +x facebook.py 
+
+$ python facebook.py </span></pre>
