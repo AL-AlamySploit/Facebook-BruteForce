@@ -11,16 +11,18 @@ In brute force attack method,tool try all combination of password to provide acc
 
 # Install
 
-<pre><span class="pl-c"></span> #command </span>
+<ul>
+<li>git clone <a href="https://github.com/AL-AlamySploit/Facebook-BruteForce">https://github.com/AL-AlamySploit/Facebook-BruteForce</a></li>
+<li>cd Facebook-BruteForce/</li>
+<li>pip install requests</li>
+<li>pip install mechanize</li>
+</ul>
 
-$ apt update && apt upgrade 
-
-$ apt install git 
-
-$ git clone https://github.com/AL-AlamySploit/Facebook-BruteForce
-
-$ cd Facebook-BruteForce 
-
-$ chmod +x fb-hack.py 
-
-$ python fb-hack.py </span></pre>
+# Supported Platforms
+<ul class="contains-task-list">
+<li> Windows</li>
+<li> Linux</li>
+<li> Android~<strong>Termux</strong></li>
+<li> MacOs</li>
+<li> <strong>any Os has python(2.x, 3.x) with required modules</strong></li>
+</ul>
