@@ -21,6 +21,6 @@ $ git clone https://github.com/AL-AlamySploit/Facebook-BruteForce
 
 $ cd Facebook-BruteForce 
 
-$ chmod +x Fb-hack.py 
+$ chmod +x fb-hack.py 
 
-$ python Fb-hack.py </span></pre>
+$ python fb-hack.py </span></pre>
