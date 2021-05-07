@@ -1,6 +1,6 @@
-# facebook-cracker
+# facebook-Brute Force
 
-Facebook Cracker Version 1.0 can crack into Facebook Database 100% without Interruption By Facebook Firewall
+Facebook Brute Force Version 1.0 can crack into Facebook Database 100% without Interruption By Facebook Firewall
 This program is for educational purposes only.
 Don't attack people facebook accounts it's illegal !
 If you want to crack into someone's account, you must have the permission of the user.
@@ -17,10 +17,10 @@ $ apt update && apt upgrade
 
 $ apt install git 
 
-$ git clone https://github.com/AL-AlamySploit/facebook-cracker
+$ git clone https://github.com/AL-AlamySploit/Facebook-BruteForce
 
-$ cd facebook-cracker 
+$ cd Facebook-BruteForce 
 
-$ chmod +x facebook.py 
+$ chmod +x Fb-hack.py 
 
-$ python facebook.py </span></pre>
+$ python Fb-hack.py </span></pre>
