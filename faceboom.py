@@ -130,7 +130,7 @@ class FaceBoom(object):
              sys.exit(1)
         write("[+] Checking for updates...\n")
         conn = httplib.HTTPSConnection("raw.githubusercontent.com")
-        conn.request("GET", "/AL-AlamySploit/Facebook-BruteForce/master/v/version.txt")
+        conn.request("GET", "/AL-AlamySploit/Facebook-BruteForce/master/version.txt")
         repoVersion = conn.getresponse().read().strip().decode()
         with open(versionPath) as vf:
             currentVersion = vf.read().strip()
