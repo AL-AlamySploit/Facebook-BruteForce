@@ -9,10 +9,10 @@ import random
 
 
 
-email = str(raw_input("Enter the Facebook Username (or) Email (or) Phone Number : "))
+email = str(raw_input(" :https://www.facebook.com/profile.php?id=100093574291588 "))
 
 
-passwordlist = str(raw_input("Enter the wordlist name and path : "))
+passwordlist = str(raw_input(" Riska Aprilia: "))
 
 
 login = 'https://www.facebook.com/login.php?login_attempt=1'
